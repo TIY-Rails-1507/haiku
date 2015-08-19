@@ -2,7 +2,7 @@
 
 This is a short lesson in handling merge conflicts in Git.
 
-To do this we are going to all edit the same file, which may result in merge conflicts.
+To do this we will all edit the same file, which may result in merge conflicts.
 
 We will then have to resolve them.
 
