@@ -75,7 +75,7 @@ CONFLICT (content): Merge conflict in poem.txt
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
-This indicates that there is a merge conflict in poem.txt.
+This explains that there is a merge conflict in poem.txt.
 
 Open that file and notice how the merge conflict is indicated. 
 
