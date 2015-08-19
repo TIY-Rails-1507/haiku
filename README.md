@@ -16,7 +16,14 @@ On your local machine, open poem.txt and create a Haiku - there are no prizes so
 
 Ref: https://www.youngwriters.co.uk/types-haiku-poem
 
+Example:
 
+(5) The sky is so blue. 
+(7) The sun is so warm up high.
+(5) I love the summer.
+
+
+The title of the Haiku is: The interweb
 
 
 #### Step 2
@@ -31,6 +38,5 @@ Rules for merging
 * Must keep at least one of the lines from the version you pulled down
 
 
-
 #### Info on how to merge
-
+Follow the prompts, shout if you get stuck...
