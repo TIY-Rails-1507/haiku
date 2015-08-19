@@ -75,11 +75,13 @@ CONFLICT (content): Merge conflict in poem.txt
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
-This explains that there is a merge conflict in poem.txt.
+This explains that there is a merge conflict in ```poem.txt```.
 
 Open that file and notice how the merge conflict is indicated. 
 
-Resolve the conflict (following the rules stated above). Remember to save the file.
+Resolve the conflict - remove all merge indicators and make the file be in the state you want to commit it.
+
+Please follow the merge rules stated above and remember to save the file.
 
 Use ```git status``` to see the latest changes.
 Do a git add on ```poem.txt``` and then type ```git commit``` - do not add a message.
@@ -91,11 +93,5 @@ Now you can do a push with ```git push origin master```
 
 
 Have a look on GitHub to see if it looks as you expect...
-
-
-
-
-
-
 
 Follow the prompts, shout if you get stuck...
