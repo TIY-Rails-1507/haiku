@@ -2,3 +2,11 @@ the weather is shift
 but we won't quit
 after all this is git
 and now you can commit
+
+The sky is so dark
+It works wonderfully
+That is great
+
+My next haiku is
+going to cause some problems
+but github is smart.
