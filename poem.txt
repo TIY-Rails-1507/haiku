@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 chrome is my browser
 the web is evil help please
 This is faster
 
-chrome is my browser
-It works wonderfully
+The sky is so dark
+It works wonderfull
 That is great
+
+My next haiku is
+going to cause some problems
+but github is smart.
