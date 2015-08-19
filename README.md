@@ -23,7 +23,7 @@ Example:
 * (5) I love the summer.
 
 
-The title of the Haiku is: **The Interweb**
+The title of the Haiku is: **The Man of the Interweb**
 
 
 #### Step 2
