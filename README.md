@@ -18,9 +18,9 @@ Ref: https://www.youngwriters.co.uk/types-haiku-poem
 
 Example:
 
-(5) The sky is so blue. 
-(7) The sun is so warm up high.
-(5) I love the summer.
+* (5) The sky is so blue. 
+* (7) The sun is so warm up high.
+* (5) I love the summer.
 
 
 The title of the Haiku is: The interweb
